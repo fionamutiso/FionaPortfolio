@@ -23,5 +23,13 @@ export const projects = [
     githubUrl: 'https://github.com/fionamutiso',
     liveUrl: null,
   },
+  {
+    title: 'Flappy Bird',
+    description:
+      'A simple flappy bird game built with HTML, CSS, and JavaScript.',
+    technologies: ['HTML', 'CSS', 'JavaScript'],
+    githubUrl: 'https://github.com/fionamutiso',
+    liveUrl: 'https://flappy-bird-game-so94.vercel.app/',
+  },
 ]
 
