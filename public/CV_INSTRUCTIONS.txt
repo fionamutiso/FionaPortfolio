@@ -1,0 +1,9 @@
+Download CV button points to:
+
+  public/FionaCV.docx
+
+To enable it:
+1) Put your Word CV file in this folder (public/)
+2) Name it exactly: FionaCV.docx
+3) Restart the dev server if it was running
+
