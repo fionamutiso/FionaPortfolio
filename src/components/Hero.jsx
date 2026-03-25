@@ -49,7 +49,7 @@ export default function Hero({ onNavigate }) {
             {[
               { label: 'Focus', value: 'Frontend' },
               { label: 'Stack', value: 'React + APIs' },
-              { label: 'Goal', value: 'Internship-ready' },
+              { label: 'Goal', value: 'Internship and work-ready' },
             ].map((item) => (
               <div
                 key={item.label}

@@ -1,8 +1,8 @@
 export const experience = [
   {
-    org: 'Organization Name',
+    org: 'Solutech',
     role: 'Software Engineering Intern / Attachment',
-    duration: 'Month YYYY — Month YYYY',
+    duration: 'May — August 2025',
     bullets: [
       'Contributed to frontend features and UI improvements using React.',
       'Worked with APIs and handled basic debugging and testing.',
