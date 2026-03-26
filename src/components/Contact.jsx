@@ -46,19 +46,9 @@ export default function Contact() {
 
       setStatus('sent')
       form.reset()
-    } catch (err) {
-      // EmailJS often returns useful details in the error response.
-      // Surface it so we can fix template variable name mismatches quickly.
-      console.error('EmailJS send error:', err)
-      const detail =
-        err?.text ||
-        err?.message ||
-        err?.response?.data?.text ||
-        err?.response?.data?.message ||
-        err?.response?.text ||
-        'Failed to send. Please try again in a moment.'
+    } catch {
       setStatus('error')
-      setError(String(detail))
+      setError('Failed to send. Please try again in a moment.')
     }
   }
 
