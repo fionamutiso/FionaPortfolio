@@ -8,7 +8,7 @@ export default function Hero({ onNavigate }) {
           <div className="anim-fade-up">
             <span className="inline-flex items-center gap-2 rounded-full border border-slate-200 bg-slate-50 px-3 py-1 text-xs font-semibold text-slate-700 dark:border-slate-800 dark:bg-slate-900/40 dark:text-slate-200">
               <span className="h-1.5 w-1.5 rounded-full bg-indigo-600" />
-              Software Developer
+              Web Developer
             </span>
           </div>
 

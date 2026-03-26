@@ -10,7 +10,7 @@ export default function About() {
               About
             </h2>
             <p className="mt-3 text-sm leading-relaxed text-slate-600 dark:text-slate-300">
-              I’m a software engineering student building practical projects while strengthening my
+              I’m a Computer Science student building practical projects while strengthening my
               fundamentals in frontend development and APIs.
             </p>
           </div>
