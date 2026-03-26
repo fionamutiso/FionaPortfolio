@@ -29,7 +29,7 @@ export const projects = [
       'A simple flappy bird game built with HTML, CSS, and JavaScript.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     githubUrl: 'https://github.com/fionamutiso/flappybird',
-    liveUrl: 'https://flappy-bird-game-so94.vercel.app',
+    liveUrl: 'https://flappybird-pied.vercel.app',
   },
   {
     title: 'Blush',
