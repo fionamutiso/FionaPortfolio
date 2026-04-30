@@ -8,9 +8,9 @@ export const projects = [
     liveUrl: null,
   },
   {
-    title: 'LIFE RPG',
+    title: 'LIVELY',
     description:
-      'A lightweight RPG-style web experience focused on interactions, progression, and UI flow.',
+      'A habit tracker, task manager focused on interactions, progression, and UI flow.',
     technologies: ['React', 'Vite', 'Tailwind CSS'],
     githubUrl: 'https://github.com/fionamutiso/Life_games',
     liveUrl: null,
