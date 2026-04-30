@@ -37,7 +37,7 @@ export default function Hero({ onNavigate }) {
             </button>
 
             <a
-              href="/FIONA CV.docx"
+              href="Desktop/FIONA CV.docx"
               download
               className="inline-flex items-center justify-center rounded-md border border-slate-300 bg-white px-5 py-3 text-sm font-semibold text-slate-900 transition hover:-translate-y-0.5 hover:bg-slate-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-offset-2 active:translate-y-0 dark:border-slate-700 dark:bg-slate-900/40 dark:text-slate-100 dark:hover:bg-slate-900/70 dark:focus-visible:ring-offset-slate-950"
             >
