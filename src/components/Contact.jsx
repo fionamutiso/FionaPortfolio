@@ -30,15 +30,7 @@ export default function Contact() {
                 +254 796 494 634
               </a>
               <div className="flex flex-wrap gap-3">
-                <a
-                  href="https://github.com/fionamutiso"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-flex items-center gap-2 rounded-md border border-slate-300 bg-white px-3 py-2 text-sm font-semibold text-slate-900 transition hover:-translate-y-0.5 hover:bg-slate-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 dark:border-slate-700 dark:bg-slate-900/40 dark:text-slate-100 dark:hover:bg-slate-900/70"
-                >
-                  <FiGithub className="h-4 w-4" />
-                  GitHub
-                </a>
+               
               </div>
             </div>
           </div>

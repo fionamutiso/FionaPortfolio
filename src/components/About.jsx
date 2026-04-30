@@ -26,7 +26,7 @@ export default function About() {
                   <div>
                     <p className="font-semibold text-slate-900 dark:text-slate-100">Background</p>
                     <p className="mt-1 text-slate-600 dark:text-slate-300">
-                      Student developer focused on building real projects for internship readiness.
+                      Student developer focused on building real projects.
                     </p>
                   </div>
                   <div>

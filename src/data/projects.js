@@ -5,7 +5,7 @@ export const projects = [
       'A simple weather app with a clean UI for searching locations and viewing current conditions.',
     technologies: ['React', 'Vite', 'Tailwind CSS'],
     githubUrl: 'https://github.com/fionamutiso/weatherrr',
-    liveUrl: 'https://weatherrr-tau.vercel.app/',
+    liveUrl: null,
   },
   {
     title: 'LIFE RPG',
@@ -29,7 +29,7 @@ export const projects = [
       'A simple flappy bird game built with HTML, CSS, and JavaScript.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     githubUrl: 'https://github.com/fionamutiso/flappybird',
-    liveUrl: 'https://flappybird-pied.vercel.app',
+    liveUrl: null,
   },
   {
     title: 'Blush',
